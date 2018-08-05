@@ -1,0 +1,26 @@
+
+export const defaultData=[
+{completed:false, minutes:1, id:'Shower'},
+
+{completed:false, minutes:1, id:'Shave'},
+{completed:false, minutes:5, id:'Get_dressed'},
+{completed:false, minutes:3, id:'Feed_llamas'},
+{completed:false, minutes:2, id:'Feed_Cats'},
+{completed:false, minutes:1, id:'Espresso_maker'},
+{completed:false, minutes:1, id:'Oven_and_stove'},
+{completed:false, minutes:1, id:'Faucets_off'},
+{completed:false, minutes:1, id:'Windows_closed'},
+{completed:false, minutes:1, id:'Stereo_off'},
+{completed:false, minutes:1, id:'Lights_off'},
+{completed:false, minutes:1, id:'Alarm_set'},
+{completed:false, minutes:1, id:'Doors_locked'},
+{completed:false, minutes:1, id:'Phone'},
+{completed:false, minutes:1, id:'Wallet'},
+{completed:false, minutes:1, id:'Keys'},
+{completed:false, minutes:1, id:'Watch'},
+{completed:false, minutes:1, id:'Glasses'},
+{completed:false, minutes:1, id:'Sunglasses'},
+{completed:false, minutes:1, id:'Sunblock'},
+{completed:false, minutes:1, id:'Hat'},
+{completed:false, minutes:1, id:'Umbrella'},
+];
